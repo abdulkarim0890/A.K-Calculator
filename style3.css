@@ -1,0 +1,34 @@
+body {
+    background-color: lightblue;
+    background-image: linear-gradient(to right, rgb(54, 183, 125) , rgb(153, 153, 6));
+  }
+table {
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+}
+ 
+input[type="button"] {
+    width: 100%;
+    padding: 20px 40px;
+    background-color: rgb(29, 94, 85);
+    color: rgb(180, 117, 23);
+    font-size: 24px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+}
+ 
+input[type="text"] {
+    padding: 20px 240px;
+    font-size: 24px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    border: 2px solid black;
+    text-align: left;
+}
+ 
+display {
+    text-align: left;
+}
